@@ -60,7 +60,7 @@ If you haven't already, download and setup [SideQuest](https://sidequestvr.com/#
 There are three methods available to obtain BMBF:
 
 * [The SideQuest Store on PC](#download-from-the-sidequest-store)
-* [The BMBF website](#download-the-from-the-bmbf-website)
+* [The BMBF website](#download-from-the-bmbf-website)
 * If you do not have a PC, you can use [the SideQuest Store on Android](/support/modding-with-android.md) as a last resort
   * Chromebooks and iOS devices such as iPhones or iPads are not supported.
 :::tip
